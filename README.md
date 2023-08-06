@@ -1,2 +1,2 @@
-# BitVector-Picsart-Acadermy
-# BitVector-Picsart-Acadermy
+# BitVector-Picsart-Academy
+
